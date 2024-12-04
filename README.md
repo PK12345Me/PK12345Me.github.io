@@ -71,7 +71,7 @@
 
       <h2>9. Contact Us</h2>
       <p>If you have any questions about this Privacy Policy or our practices, please contact us at:<br>
-      [Your Contact Information]</p>
+      https://github.com/PK12345Me</p>
 
       <h2>10. Cookie Policy</h2>
       <p>Our app uses cookies and similar tracking technologies to:</p>
