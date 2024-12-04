@@ -1,4 +1,3 @@
-Brkda and Globetrotter's Landing Page
 ![1](https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e)
 
 <div style="max-width: 800px; margin: 20px auto;">
@@ -7,9 +6,8 @@ Brkda and Globetrotter's Landing Page
       Privacy Policy
     </summary>
     <div style="height: 300px; overflow-y: auto; padding: 20px; border: 1px solid #ddd; border-radius: 4px; margin-top: 10px; background-color: white;">
-      <!-- Insert your privacy policy text here -->
-      <h1>Privacy Policy</h1>
-      <p>Last Updated: December 3, 2024</p>
+      <h1 style="margin-top: 0;">Privacy Policy</h1>
+      <p style="color: #666;">Last Updated: December 3, 2024</p>
 
       <h2>1. Introduction</h2>
       <p>This Privacy Policy describes how we collect, use, process, and disclose your information, including personal information, in conjunction with your access to and use of our app.</p>
@@ -23,7 +21,67 @@ Brkda and Globetrotter's Landing Page
         <li>Payment information when you make purchases</li>
       </ul>
 
-      <!-- Continue with the rest of your privacy policy -->
+      <h3>2.2 Information We Automatically Collect</h3>
+      <ul>
+        <li>Device information (operating system, hardware version, device settings)</li>
+        <li>Log data (IP address, browser type, pages viewed)</li>
+        <li>Usage data (features used, interactions with the app)</li>
+        <li>Location data (if permitted by you)</li>
+      </ul>
+
+      <h2>3. How We Use Your Information</h2>
+      <p>We use the collected information for:</p>
+      <ul>
+        <li>Providing and maintaining our services</li>
+        <li>Improving and personalizing your experience</li>
+        <li>Processing your transactions</li>
+        <li>Communicating with you about updates and promotions</li>
+        <li>Ensuring security and preventing fraud</li>
+        <li>Complying with legal obligations</li>
+      </ul>
+
+      <h2>4. Information Sharing and Disclosure</h2>
+      <p>We may share your information with:</p>
+      <ul>
+        <li>Service providers who assist in our operations</li>
+        <li>Legal authorities when required by law</li>
+        <li>Third parties in the event of a merger, sale, or asset transfer</li>
+      </ul>
+      <p>We do not sell your personal information to third parties.</p>
+
+      <h2>5. Data Security</h2>
+      <p>We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.</p>
+
+      <h2>6. Your Rights and Choices</h2>
+      <p>You have the right to:</p>
+      <ul>
+        <li>Access your personal information</li>
+        <li>Correct inaccurate data</li>
+        <li>Request deletion of your data</li>
+        <li>Opt-out of marketing communications</li>
+        <li>Update your privacy settings</li>
+        <li>Disable location tracking</li>
+      </ul>
+
+      <h2>7. Children's Privacy</h2>
+      <p>Our services are not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us.</p>
+
+      <h2>8. Changes to This Policy</h2>
+      <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.</p>
+
+      <h2>9. Contact Us</h2>
+      <p>If you have any questions about this Privacy Policy or our practices, please contact us at:<br>
+      [Your Contact Information]</p>
+
+      <h2>10. Cookie Policy</h2>
+      <p>Our app uses cookies and similar tracking technologies to:</p>
+      <ul>
+        <li>Remember your preferences</li>
+        <li>Understand how you use our app</li>
+        <li>Improve your experience</li>
+        <li>Provide targeted advertising</li>
+      </ul>
+      <p>You can control cookie settings through your browser preferences.</p>
     </div>
   </details>
 </div>
