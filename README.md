@@ -13,6 +13,10 @@
             <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" style="width: 20px; height: 20px;">
           <p style="margin: 0;"><a href="mailto:brkda.app@gmail.com">brkda.app@gmail.com</a></p>
         </div>
+         <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" style="width: 20px; height: 20px;">
+           <p style="margin: 0;"><a href="https://www.instagram.com/brkdaapp">@brkda</a></p>
+       </div>
     </div>
     <img src="https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e" alt="1" style="width: 60%;">
 </div>
