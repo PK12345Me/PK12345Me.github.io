@@ -1,5 +1,5 @@
 theme:  jekyll-theme-cayman #jekyll-theme-minimal
-//title: Brkda
+# title: Brkda
 title: <div style="display: flex; align-items: center; justify-content: center; gap: 10px;"><img src="/cosmic2.png" alt="logo" style="height: 40px;"> <span>Brkda</span></div>
 
 description: Gaming and Leisure
