@@ -5,19 +5,23 @@
 
 ![1](https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e) -->
 
-<div style="display: flex; justify-content: space-between; align-items: stretch; margin: 10px;">
-    <div style="padding: 20px; background-color: #f5f5f5; border-radius: 5px; width: 30%; height: 400px; display: flex; flex-direction: column;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 10px;">
+    <div style="padding: 20px; background-color: #f5f5f5; border-radius: 5px; width: 30%; min-height: 200px;">
         <h3>Contact Info</h3>
+      <!--<p>GitHub: <a href="https://github.com/PK12345Me">PK12345Me</a></p>-->
         <div style="display: flex; align-items: center; gap: 10px;">
             <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" style="width: 20px; height: 20px;">
-            <p style="margin: 0;"><a href="mailto:brkda.app@gmail.com">brkda.app@gmail.com</a></p>
+          <p style="margin: 0;"><a href="mailto:brkda.app@gmail.com">brkda.app@gmail.com</a></p>
         </div>
-        <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" style="width: 20px; height: 20px;">
-            <p style="margin: 0;"><a href="https://www.instagram.com/brkdaapp">@brkda</a></p>
-        </div>
+         <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" style="width: 20px; height: 20px;">
+           <p style="margin: 0;"><a href="https://www.instagram.com/brkdaapp">@brkda</a></p>
+       </div>
     </div>
-    <img src="/Frame 8-2.png" alt="1" style="width: 60%; height: 400px; object-fit: contain;">
+  <img src="/Frame 8-2.png" alt="1" style="width: 60%; height: 400px; object-fit: contain;">
+  <!--<img src="/Frame 8-2.png" alt="1" style="width: 60%;">-->
+     <!--<img src="https://raw.githubusercontent.com/PK12345Me/PK12345Me.github.io/main/Frame%208-2.png" alt="1" style="width: 60%;">-->
+  <!--<img src="https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e" alt="1" style="width: 60%;">-->
 </div>
 
 <div style="max-width: 800px; margin: 20px auto;">
