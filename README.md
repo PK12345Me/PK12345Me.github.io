@@ -6,12 +6,11 @@
 ![1](https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e) -->
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e" alt="1" style="width: 60%;">
-  
-  <div style="padding: 20px; background-color: #f5f5f5; border-radius: 5px;">
+    <div style="padding: 20px; background-color: #f5f5f5; border-radius: 5px; width: 30%; min-height: 200px;">
     <h3>Contact Info</h3>
     <p>GitHub: <a href="https://github.com/PK12345Me">PK12345Me</a></p>
   </div>
+  <img src="https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e" alt="1" style="width: 60%;">
 </div>
 
 <div style="max-width: 800px; margin: 20px auto;">
