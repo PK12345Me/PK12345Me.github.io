@@ -8,7 +8,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 10px;">
     <div style="padding: 20px; background-color: #f5f5f5; border-radius: 5px; width: 30%; min-height: 200px;">
         <h3>Contact Info</h3>
-        <p>GitHub: <a href="https://github.com/PK12345Me">PK12345Me</a></p>
+      <!--<p>GitHub: <a href="https://github.com/PK12345Me">PK12345Me</a></p>-->
         <div style="display: flex; align-items: center; gap: 10px;">
             <img src="https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png" alt="Gmail" style="width: 20px; height: 20px;">
           <p style="margin: 0;"><a href="mailto:brkda.app@gmail.com">brkda.app@gmail.com</a></p>
