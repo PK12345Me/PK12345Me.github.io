@@ -18,7 +18,8 @@
            <p style="margin: 0;"><a href="https://www.instagram.com/brkdaapp">@brkda</a></p>
        </div>
     </div>
-  <img src="/Frame 8-2.png" alt="1" style="width: 60%;">
+  <img src="/Frame 8-2.png" alt="1" style="width: 60%; height: 400px; object-fit: contain;">
+  <!--<img src="/Frame 8-2.png" alt="1" style="width: 60%;">-->
      <!--<img src="https://raw.githubusercontent.com/PK12345Me/PK12345Me.github.io/main/Frame%208-2.png" alt="1" style="width: 60%;">-->
   <!--<img src="https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e" alt="1" style="width: 60%;">-->
 </div>
