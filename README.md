@@ -1,9 +1,18 @@
-<div style="float: right; padding: 20px; background-color: #f5f5f5; border-radius: 5px; margin: 10px;">
+<!--<div style="float: right; padding: 20px; background-color: #f5f5f5; border-radius: 5px; margin: 10px;">
   <h3>Contact Info</h3>
   <p>GitHub: <a href="https://github.com/PK12345Me">PK12345Me</a></p>
 </div>
 
-![1](https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e)
+![1](https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e) -->
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/a7ef544a-1f3e-4a29-9987-bcd5f705941e" alt="1" style="width: 60%;">
+  
+  <div style="padding: 20px; background-color: #f5f5f5; border-radius: 5px;">
+    <h3>Contact Info</h3>
+    <p>GitHub: <a href="https://github.com/PK12345Me">PK12345Me</a></p>
+  </div>
+</div>
 
 <div style="max-width: 800px; margin: 20px auto;">
   <details>
