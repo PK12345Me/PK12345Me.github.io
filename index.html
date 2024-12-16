@@ -14,14 +14,14 @@
     .header {
       width: 100%;
       height: auto;
-      max-height: 300px; /* Limit the banner height */
-      overflow: hidden; /* Ensures the image doesn't exceed container bounds */
+      overflow: hidden; /* Ensures no overflow */
     }
     .header img {
       width: 100%;
-      height: auto; /* Maintains aspect ratio */
+      height: auto; /* Automatically adjusts height based on width */
+      aspect-ratio: 1200 / 628; /* Maintains the original aspect ratio */
       display: block;
-      object-fit: cover; /* Ensures the image scales nicely */
+      object-fit: cover; /* Ensures the image covers the container proportionally */
     }
     .container {
       display: flex;
@@ -29,7 +29,6 @@
       align-items: center;
       justify-content: center;
       width: 100%;
-      min-height: 100vh;
       padding: 20px;
       box-sizing: border-box;
     }
